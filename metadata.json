@@ -1,0 +1,5 @@
+{
+  "name": "超级大乐透AI预测大师",
+  "description": "基于Google Gemini AI与大数据统计分析的超级大乐透预测工具。具备模拟全网数据抓取、大额投注监控及智能号码推荐功能。",
+  "requestFramePermissions": []
+}
