@@ -1,4 +1,4 @@
-name: Super-Lottery
+name: Build AI Studio Android APK
 
 on:
   push:
@@ -28,4 +28,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: my-ai-app
-          path: app/build/outputs/apk/debug/Super-Lottery.apk
+          path: app/build/outputs/apk/debug/app-debug.apk
